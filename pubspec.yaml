@@ -1,0 +1,15 @@
+name: twirp_dart_core
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+homepage: https://github.com/apptreesoftware/twirp_dart_core
+author: matthew <matthew@apptree.cloud>
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  http: ^0.11.0
+  requester: ">=0.0.2 <2.0.0"
+
+dev_dependencies:
+  test: ^1.0.0
