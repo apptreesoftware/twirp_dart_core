@@ -1,8 +1,8 @@
 name: twirp_dart_core
-description: A starting point for Dart libraries or applications.
+description: Core library for using Twirp + Dart
 version: 1.0.0
 homepage: https://github.com/apptreesoftware/twirp_dart_core
-author: matthew <matthew@apptree.cloud>
+author: Matthew Smith<matthew.smith@apptreesoftware.com>
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
