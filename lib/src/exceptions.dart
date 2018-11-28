@@ -1,4 +1,4 @@
-class TwirpException {
+class TwirpException implements Exception {
   final String message;
 
   TwirpException(this.message);
