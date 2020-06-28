@@ -1,6 +1,6 @@
 name: twirp_dart_core
 description: Core library for using Twirp + Dart
- reqversion: 1.0.0+2
+version: 1.0.0+2
 homepage: https://github.com/apptreesoftware/twirp_dart_core
 author: Matthew Smith<matthew.smith@apptreesoftware.com>
 
